@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "rootDir": "src",
+        "target": "es6",
+        "watch": true
+    }
+}
